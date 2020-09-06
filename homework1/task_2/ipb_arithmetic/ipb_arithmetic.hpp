@@ -5,7 +5,7 @@
 #ifndef IPB_ARITHMETIC_HPP_
 #define IPB_ARITHMETIC_HPP_
 
-#include "ipb_arithmetic/subtract.hpp"
-#include "ipb_arithmetic/sum.hpp"
+#include "subtract.hpp"
+#include "sum.hpp"
 
-#endif  // IPB_ARITHMETIC_HPP_
+#endif // IPB_ARITHMETIC_HPP_

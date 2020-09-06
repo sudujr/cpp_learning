@@ -1,5 +1,5 @@
-#include "tools.hpp"
 
+#include "tools.hpp"
 int main()
 {
     MakeitRain();
